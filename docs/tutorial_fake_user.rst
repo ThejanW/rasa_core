@@ -5,7 +5,7 @@ Interactive Learning with a Fake User
 
 In this example we will:
 
-- Introduce the platform for interactive interactive policy learning
+- Introduce the platform for interactive policy learning
 
 - Do a test example against a fake user
 
